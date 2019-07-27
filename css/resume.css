@@ -79,8 +79,55 @@ p.lead {
   font-size: 3rem;
 }
 
-.dev-icons .list-inline-item i:hover {
-  color: #343a40;
+/* Hover Skills Icons */
+
+.dev-icons .list-inline-item .fab.fa-html5 {
+  color: #E34C26
+}
+
+.dev-icons .list-inline-item .fab.fa-css3-alt {
+  color: #264de4
+}
+
+.dev-icons .list-inline-item .fab.fa-js-square {
+  color: #f0db4f
+}
+
+.dev-icons .list-inline-item .fab.fa-react {
+  color: #61dbfb
+}
+
+.dev-icons .list-inline-item .fab.fa-node {
+  color: #3C873A
+}
+
+.dev-icons .list-inline-item .fab.fa-java {
+  color: #f89820
+}
+
+.dev-icons #git {
+  color: #f1502f
+}
+
+.dev-icons #github {
+  color: #000000
+}
+
+
+.dev-icons .list-inline-item .fab.fa-bitbucket {
+  color: #2684ff
+}
+
+.dev-icons .list-inline-item .fas.fa-database {
+  color: red
+}
+
+.dev-icons .list-inline-item .fab.fa-bootstrap {
+  color: #602c50
+}
+
+.dev-icons .list-inline-item .fab.fa-npm {
+  color: #cc3534
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
