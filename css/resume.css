@@ -113,6 +113,9 @@ p.lead {
   color: #000000
 }
 
+.list-inline-item #heroku {
+  color: #6762a6
+}
 
 .dev-icons .list-inline-item .fab.fa-bitbucket {
   color: #2684ff
@@ -238,11 +241,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #10457a;
+  color: #000000;
 }
 
-a:hover,
+/* a:hover,
 a:focus,
 a:active {
   color: #000000;
-}
+} */
