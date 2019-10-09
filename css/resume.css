@@ -305,7 +305,7 @@ a:active {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  background: #18d26e;
+  background: #000000;
   color: #fff;
 }
 
@@ -365,7 +365,7 @@ a:active {
 
 #portfolio .portfolio-item figure .link-preview:hover,
 #portfolio .portfolio-item figure .link-details:hover {
-  background: #18d26e;
+  background: #000000;
 }
 
 #portfolio .portfolio-item figure .link-preview:hover i,
@@ -414,7 +414,7 @@ a:active {
 }
 
 #portfolio .portfolio-item .portfolio-info h4 a:hover {
-  color: #18d26e;
+  color: #707974;
 }
 
 #portfolio .portfolio-item .portfolio-info p {
